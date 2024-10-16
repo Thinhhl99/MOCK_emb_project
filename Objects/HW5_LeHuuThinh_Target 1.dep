@@ -1,0 +1,112 @@
+Dependencies for Project 'HW5_LeHuuThinh', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6190000::V6.19::ARMCLANG
+F (.\Source\main.c)(0x65841010)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/main.o -MD)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x63885718)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdio.h)(0x63885718)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (C:\Keil_v5\ARM\ARMCLANG\include\string.h)(0x63885718)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (Include\common.h)(0x6547BEBA)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+I (Include\nvic.h)(0x654B4D48)
+I (Include\delay.h)(0x65547EAC)
+I (Include\systick.h)(0x654E539E)
+I (Include\scg.h)(0x657C1294)
+I (Include\lpuart.h)(0x657ECC92)
+I (Include\lpit.h)(0x6580375C)
+I (Include\lpspi.h)(0x657FF736)
+F (.\Source\nvic.c)(0x654B8002)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/nvic.o -MD)
+I (Include\nvic.h)(0x654B4D48)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (Include\common.h)(0x6547BEBA)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+F (.\Source\delay.c)(0x657C1EC0)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/delay.o -MD)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (Include\common.h)(0x6547BEBA)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+I (Include\delay.h)(0x65547EAC)
+I (Include\systick.h)(0x654E539E)
+F (.\Source\scg.c)(0x657ECC92)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/scg.o -MD)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (Include\common.h)(0x6547BEBA)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+I (Include\scg.h)(0x657C1294)
+F (.\Source\lpuart.c)(0x657ECC92)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/lpuart.o -MD)
+I (Include\lpuart.h)(0x657ECC92)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (Include\common.h)(0x6547BEBA)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+I (Include\lpit.h)(0x6580375C)
+F (.\Source\lpit.c)(0x6582D3FD)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/lpit.o -MD)
+I (Include\lpit.h)(0x6580375C)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (Include\common.h)(0x6547BEBA)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+F (.\Source\lpspi.c)(0x65816061)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/lpspi.o -MD)
+I (Include\main.h)(0x6582D3FD)
+I (Include\pcc.h)(0x6579AAB4)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (Include\common.h)(0x6547BEBA)
+I (Include\port.h)(0x6547BEBA)
+I (Include\gpio.h)(0x6582D3FD)
+I (Include\lpspi.h)(0x657FF736)
+F (.\Include\main.h)(0x6582D3FD)()
+F (.\Include\port.h)(0x6547BEBA)()
+F (.\Include\pcc.h)(0x6579AAB4)()
+F (.\Include\gpio.h)(0x6582D3FD)()
+F (.\Include\common.h)(0x6547BEBA)()
+F (.\Include\nvic.h)(0x654B4D48)()
+F (.\Include\delay.h)(0x65547EAC)()
+F (.\Include\systick.h)(0x654E539E)()
+F (.\Include\scg.h)(0x657C1294)()
+F (.\Include\lpuart.h)(0x657ECC92)()
+F (.\Include\lpit.h)(0x6580375C)()
+F (.\Include\lpspi.h)(0x657FF736)()
+F (C:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/startup.c)(0x60DEABDE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/startup.o -MD)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\startup.h)(0x60C2B802)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\device_registers.h)(0x60C2B802)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\common\s32_core_cm4.h)(0x5F51DC4E)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\S32K144\include\S32K144.h)(0x60D9AFC6)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F58EE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F58EE)
+I (RTE\Device\S32K144HAxxxLLx\system_S32K144.h)(0x60C2B7DE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\S32K144\include\S32K144_features.h)(0x60C2B7DE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\devassert.h)(0x60C2B802)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63885718)
+F (RTE/Device/S32K144HAxxxLLx/S32K144_64_flash.sct)(0x60DEABDE)()
+F (RTE/Device/S32K144HAxxxLLx/S32K144_64_ram.sct)(0x60DEABDE)()
+F (RTE/Device/S32K144HAxxxLLx/startup_S32K144.S)(0x60D9AFC6)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4 -D__EVAL-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION=538 -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/startup_s32k144.o)
+F (RTE/Device/S32K144HAxxxLLx/system_S32K144.c)(0x60C2B7DE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -Weverything -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./Include-I./RTE/Device/S32K144HAxxxLLx-I./RTE/_Target_1-IC:/Users/thinh/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices-IC:/Users/thinh/AppData/Local/Arm/Packs/Keil/S32_SDK_DFP/1.5.0/platform/devices/common-D__UVISION_VERSION="538" -D_RTE_ -DCPU_S32K144HFT0VLLT -D_RTE_-o ./objects/system_s32k144.o -MD)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\device_registers.h)(0x60C2B802)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\common\s32_core_cm4.h)(0x5F51DC4E)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\S32K144\include\S32K144.h)(0x60D9AFC6)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x63885718)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F58EE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h)(0x626F58EE)
+I (RTE\Device\S32K144HAxxxLLx\system_S32K144.h)(0x60C2B7DE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\S32K144\include\S32K144_features.h)(0x60C2B7DE)
+I (C:\Users\thinh\AppData\Local\Arm\Packs\Keil\S32_SDK_DFP\1.5.0\platform\devices\devassert.h)(0x60C2B802)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x63885718)
+F (RTE/Device/S32K144HAxxxLLx/system_S32K144.h)(0x60C2B7DE)()
